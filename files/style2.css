@@ -1326,7 +1326,8 @@ animation-name: slidein;
 #door{
   position: absolute;
   height: 227px;
-  width: 175px;
+  width: 100%;
+
 }
 
 #cross{
@@ -1435,7 +1436,8 @@ animation-name: slidein;
 }
 
 .page-content{
-  background-image: url('../img/배경.jpg');
+  /* background-image: url('../img/배경.jpg'); */
+  background-color: #fef6e2;
   background-size: cover;
 }
 
