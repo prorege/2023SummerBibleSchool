@@ -1333,7 +1333,7 @@ animation-name: slidein;
 #cross{
   position: absolute;
   height: 217px;
-  width: 167px;
+  width:100%;
 }
 
 #click{
